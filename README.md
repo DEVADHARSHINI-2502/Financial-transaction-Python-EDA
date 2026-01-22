@@ -13,4 +13,4 @@ Synthetic bank transaction dataset containing customer transactions including tr
 - Observed monthly transaction patterns
 
 ## Files
-analysis.ipynb / dashboard.pbix
+analysis.ipynb 
